@@ -1,2 +1,5 @@
 # hello-world
-It's my first normal repository
+Hello dolboyobs
+
+My name is Azat. I am 25 years old. I hope I won't be a fucking loser anymore.
+
